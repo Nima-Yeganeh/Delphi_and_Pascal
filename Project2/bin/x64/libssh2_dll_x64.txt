@@ -1,0 +1,17 @@
+libssh2 SOURCE:
+===============
+  https://www.libssh2.org/
+  https://www.libssh2.org/docs.html
+
+libssh2 DLL (x64):
+==================
+
+https://curl.haxx.se/windows/
+
+cacert.pem             from curl-ca-bundle.crt "curl-7.72.0_3-win64-mingw.zip"
+curl.exe               from "curl-7.72.0_3-win64-mingw.zip"
+libcrypto-1_1-x64.dll  from "openssl-1.1.1g_3-win64-mingw.zip"
+libcurl-x64.dll        from "curl-7.72.0_3-win64-mingw.zip"
+libssh2-x64.dll        from "libssh2-1.9.0_3-win64-mingw.zip"
+libssl-1_1-x64.dll     from "openssl-1.1.1g_3-win64-mingw.zip"
+openssl.exe            from "openssl-1.1.1g_3-win64-mingw.zip"
